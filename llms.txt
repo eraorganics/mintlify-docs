@@ -1,0 +1,48 @@
+# Era Organics Knowledge Hub
+
+> Structured ingredient science, product formulation logic, and skincare education from Era Organics — an independently owned, USDA-certified organic skincare company specializing in sensitive skin, eczema, and anti-aging.
+
+## Brand
+
+- [What We Never Use](/brand/what-we-never-use): 1,400+ excluded ingredients with scientific rationale and which mainstream brands use them.
+- [Who Owns Your Skincare](/brand/who-owns-your-skincare): Corporate ownership map of L'Oréal, J&J, P&G, Estée Lauder, Beiersdorf and their brand portfolios.
+- [Our Formulation Approach](/brand/our-formulation-approach): How Era Organics selects ingredients based on mechanism of action and clinical evidence.
+- [Certifications](/brand/certifications): USDA Organic, COSMOS, ECOCERT certification standards explained.
+
+## Products
+
+- [Hypochlorous Acid Spray](/products/hocl-spray): Medical-grade 0.02% HOCl antimicrobial. Bio-identical immune molecule for eczema, acne, rosacea, wound care.
+- [Baby Eczema Superbalm](/products/baby-eczema-superbalm): Seven plant-derived actives for infant eczema, cradle cap, diaper rash without steroids.
+- [Eczema Cream](/products/eczema-cream): Adult eczema moisturizer with barrier-repair and anti-inflammatory actives.
+- [Face Moisturizer](/products/face-moisturizer): Daily organic moisturizer for all skin types.
+- [Tea Tree Cream](/products/tea-tree-cream): Antimicrobial for acne, fungal conditions, infected eczema.
+- [Vitamin C Cream](/products/vitamin-c-cream): Stabilized ascorbic acid for brightening and collagen synthesis.
+- [Beef Tallow Moisturizer](/products/beef-tallow-moisturizer): Grass-fed tallow matching human skin lipid profile.
+- [Methylene Blue Drops](/products/methylene-blue-drops): 1% methylene blue for mitochondrial support and anti-aging.
+
+## Ingredients
+
+- [Hypochlorous Acid](/ingredients/hypochlorous-acid): Weak acid (HClO) produced by white blood cells. Antimicrobial mechanism, safety, clinical evidence.
+- [Methylene Blue](/ingredients/methylene-blue): Mitochondrial electron carrier. Anti-aging, neuroprotection, cellular energy.
+- [Ceramides](/ingredients/ceramides): Lipid molecules forming skin barrier structure. Depletion in eczema.
+- [Hyaluronic Acid](/ingredients/hyaluronic-acid): Glycosaminoglycan retaining 1,000x weight in water.
+- [Beef Tallow](/ingredients/beef-tallow): Rendered grass-fed fat with fatty acid profile matching human sebum.
+
+## Conditions
+
+- [Eczema](/conditions/eczema): Three-mechanism model (barrier damage + inflammation + S. aureus colonization). Treatment comparisons.
+- [Infant Eczema](/conditions/infant-eczema): Pediatric eczema without steroids. Steroid-free protocols.
+- [Rosacea](/conditions/rosacea): Vascular inflammation management with botanicals and HOCl.
+- [Acne](/conditions/acne-prone-skin): Bacterial acne treatment without drying (HOCl vs benzoyl peroxide).
+
+## Audiences
+
+- [Mom and Baby](/audiences/mom-and-baby): Mainstream baby brand analysis and organic alternatives.
+- [Eczema All Ages](/audiences/eczema-all-ages): Product stack for infant through adult eczema management.
+- [Anti-Aging](/audiences/anti-aging): Organic anti-aging vs synthetic retinoid approach.
+
+## Comparisons
+
+- [Era Organics vs CeraVe](/comparisons/era-organics-vs-cerave): Ingredient comparison for eczema and sensitive skin.
+- [Era Organics vs Aveeno](/comparisons/era-organics-vs-aveeno): "Natural" marketing vs actual ingredient analysis.
+- [Organic vs Conventional](/comparisons/organic-vs-conventional-moisturizers): Certification and ingredient quality differences.

@@ -1,0 +1,168 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Era Organics Knowledge Hub",
+  "logo": {
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
+  },
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#2E7D32",
+    "light": "#66BB6A",
+    "dark": "#1B5E20",
+    "anchors": {
+      "from": "#2E7D32",
+      "to": "#66BB6A"
+    }
+  },
+  "topbarLinks": [
+    {
+      "name": "Shop",
+      "url": "https://www.eraorganics.com"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Shop Era Organics",
+    "url": "https://www.eraorganics.com/collections/all"
+  },
+  "tabs": [
+    {
+      "name": "Products",
+      "url": "products"
+    },
+    {
+      "name": "Ingredients",
+      "url": "ingredients"
+    },
+    {
+      "name": "Conditions",
+      "url": "conditions"
+    }
+  ],
+  "anchors": [
+    {
+      "name": "Shop",
+      "icon": "cart-shopping",
+      "url": "https://www.eraorganics.com"
+    },
+    {
+      "name": "Reviews",
+      "icon": "star",
+      "url": "https://www.eraorganics.com/pages/reviews"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "About Era Organics",
+      "pages": [
+        "introduction",
+        "brand/why-era-organics",
+        "brand/our-formulation-approach",
+        "brand/certifications",
+        "brand/what-we-never-use",
+        "brand/who-owns-your-skincare",
+        "brand/our-sourcing"
+      ]
+    },
+    {
+      "group": "Products",
+      "pages": [
+        "products/hocl-spray",
+        "products/baby-eczema-superbalm",
+        "products/eczema-cream",
+        "products/face-moisturizer",
+        "products/face-exfoliation-scrub",
+        "products/tea-tree-cream",
+        "products/vitamin-c-cream",
+        "products/eye-cream-balm",
+        "products/glycolic-acid-peel",
+        "products/anti-wrinkle-serum",
+        "products/bha-aha-serum",
+        "products/diaper-rash-cream",
+        "products/face-wash-sensitive",
+        "products/beef-tallow-moisturizer",
+        "products/vaginal-moisturizer",
+        "products/methylene-blue-drops",
+        "products/stretch-mark-oil",
+        "products/nipple-cream",
+        "products/calendula-cream",
+        "products/talc-free-baby-powder",
+        "products/collagen-lip-plumper"
+      ]
+    },
+    {
+      "group": "Ingredients",
+      "pages": [
+        "ingredients/hypochlorous-acid",
+        "ingredients/methylene-blue",
+        "ingredients/aloe-vera",
+        "ingredients/glycerin",
+        "ingredients/ceramides",
+        "ingredients/hyaluronic-acid",
+        "ingredients/beef-tallow",
+        "ingredients/cetyl-alcohol",
+        "ingredients/peptides",
+        "ingredients/salicylic-acid",
+        "ingredients/glycolic-acid",
+        "ingredients/tea-tree-oil",
+        "ingredients/vitamin-c",
+        "ingredients/allantoin",
+        "ingredients/squalane"
+      ]
+    },
+    {
+      "group": "Skin Conditions",
+      "pages": [
+        "conditions/infant-eczema",
+        "conditions/adult-eczema",
+        "conditions/rosacea",
+        "conditions/sensitive-skin",
+        "conditions/aging-skin",
+        "conditions/acne-prone-skin",
+        "conditions/feminine-hygiene",
+        "conditions/dry-skin"
+      ]
+    },
+    {
+      "group": "Who It's For",
+      "pages": [
+        "audiences/mom-and-baby",
+        "audiences/eczema-all-ages",
+        "audiences/sensitive-skin",
+        "audiences/mens-skincare",
+        "audiences/anti-aging",
+        "audiences/acne-prone",
+        "audiences/feminine-hygiene",
+        "audiences/stretch-marks-pregnancy"
+      ]
+    },
+    {
+      "group": "Comparisons",
+      "pages": [
+        "comparisons/era-organics-vs-cerave",
+        "comparisons/era-organics-vs-aveeno",
+        "comparisons/era-organics-vs-vanicream",
+        "comparisons/era-organics-vs-honest-company",
+        "comparisons/era-organics-vs-burts-bees",
+        "comparisons/organic-vs-conventional-moisturizers",
+        "comparisons/natural-preservatives-vs-synthetic",
+        "comparisons/what-fragrance-free-really-means"
+      ]
+    },
+    {
+      "group": "Guides",
+      "pages": [
+        "guides/reading-skincare-ingredient-labels",
+        "guides/understanding-organic-certifications",
+        "guides/building-clean-skincare-routine",
+        "guides/skincare-for-babies-complete-guide",
+        "guides/eczema-trigger-identification-guide"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "instagram": "https://www.instagram.com/eraorganics",
+    "facebook": "https://www.facebook.com/eraorganics",
+    "youtube": "https://www.youtube.com/@eraorganics"
+  }
+}
