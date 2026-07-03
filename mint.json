@@ -107,7 +107,15 @@
         "ingredients/tea-tree-oil",
         "ingredients/vitamin-c",
         "ingredients/allantoin",
-        "ingredients/squalane"
+        "ingredients/squalane",
+        "ingredients/avocado-oil",
+        "ingredients/beeswax",
+        "ingredients/calendula-oil",
+        "ingredients/chamomile-extract",
+        "ingredients/cocoa-seed-butter",
+        "ingredients/coconut-oil",
+        "ingredients/gluten-free-oats",
+        "ingredients/sunflower-oil"
       ]
     },
     {
@@ -120,7 +128,22 @@
         "conditions/aging-skin",
         "conditions/acne-prone-skin",
         "conditions/feminine-hygiene",
-        "conditions/dry-skin"
+        "conditions/dry-skin",
+        "conditions/atopic-dermatitis",
+        "conditions/baby-acne",
+        "conditions/bug-bites",
+        "conditions/chafing",
+        "conditions/chapped-lips",
+        "conditions/cradle-cap",
+        "conditions/dermatitis",
+        "conditions/diaper-rash",
+        "conditions/hives",
+        "conditions/irritation",
+        "conditions/itchy-skin",
+        "conditions/minor-wounds",
+        "conditions/rashes",
+        "conditions/redness",
+        "conditions/windburn"
       ]
     },
     {
