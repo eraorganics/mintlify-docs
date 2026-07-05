@@ -115,7 +115,10 @@
         "ingredients/cocoa-seed-butter",
         "ingredients/coconut-oil",
         "ingredients/gluten-free-oats",
-        "ingredients/sunflower-oil"
+        "ingredients/sunflower-oil",
+        "ingredients/adveen",
+        "ingredients/shea-butter",
+        "ingredients/sweet-almond-oil"
       ]
     },
     {
@@ -143,7 +146,11 @@
         "conditions/minor-wounds",
         "conditions/rashes",
         "conditions/redness",
-        "conditions/windburn"
+        "conditions/windburn",
+        "conditions/cracked-skin",
+        "conditions/extra-dry-patches",
+        "conditions/vaginal-discomfort",
+        "conditions/vaginal-odor"
       ]
     },
     {
