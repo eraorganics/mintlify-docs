@@ -69,6 +69,33 @@
       "pages": [
         "products/hocl-spray",
         "products/baby-eczema-superbalm",
+        {
+          "group": "Baby Eczema Superbalm — Deep Dives",
+          "pages": [
+            "products/baby-eczema-superbalm/topical-ointment",
+            "products/baby-eczema-superbalm/ointment-formulation",
+            "products/baby-eczema-superbalm/steroid-free",
+            "products/baby-eczema-superbalm/non-comedogenic",
+            "products/baby-eczema-superbalm/hypoallergenic-formulation",
+            "products/baby-eczema-superbalm/fragrance-free-products",
+            "products/baby-eczema-superbalm/fda-cleared-otc",
+            "products/baby-eczema-superbalm/dermatological-safety",
+            "products/baby-eczema-superbalm/skin-treatment",
+            "products/baby-eczema-superbalm/barrier-function-improvement",
+            "products/baby-eczema-superbalm/skin-barrier-dysfunction",
+            "products/baby-eczema-superbalm/itch-relief",
+            "products/baby-eczema-superbalm/natural-emollients",
+            "products/baby-eczema-superbalm/plant-oils",
+            "products/baby-eczema-superbalm/fatty-acids",
+            "products/baby-eczema-superbalm/ceramide-creams",
+            "products/baby-eczema-superbalm/petroleum-jelly",
+            "products/baby-eczema-superbalm/zinc-oxide-ointments",
+            "products/baby-eczema-superbalm/hydrocortisone",
+            "products/baby-eczema-superbalm/wet-wraps",
+            "products/baby-eczema-superbalm/pediatric-dermatology",
+            "products/baby-eczema-superbalm/seborrheic-dermatitis"
+          ]
+        },
         "products/eczema-cream",
         "products/face-moisturizer",
         "products/face-exfoliation-scrub",
