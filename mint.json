@@ -150,7 +150,10 @@
         "conditions/cracked-skin",
         "conditions/extra-dry-patches",
         "conditions/vaginal-discomfort",
-        "conditions/vaginal-odor"
+        "conditions/vaginal-odor",
+        "conditions/acne",
+        "conditions/sun-damage",
+        "conditions/wrinkles"
       ]
     },
     {
