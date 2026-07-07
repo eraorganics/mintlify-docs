@@ -191,6 +191,17 @@
         "guides/skincare-for-babies-complete-guide",
         "guides/eczema-trigger-identification-guide"
       ]
+    },
+    {
+      "group": "Videos",
+      "pages": [
+        "videos/index",
+        "videos/baby-eczema-superbalm",
+        "videos/vaginal-moisturizer",
+        "videos/hypochlorous-acid-spray",
+        "videos/general",
+        "videos/community"
+      ]
     }
   ],
   "footerSocials": {
