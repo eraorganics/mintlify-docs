@@ -114,7 +114,44 @@
         "products/nipple-cream",
         "products/calendula-cream",
         "products/talc-free-baby-powder",
-        "products/collagen-lip-plumper"
+        "products/collagen-lip-plumper",
+        {
+          "group": "Hypochlorous Acid Spray — Deep Dives",
+          "pages": [
+            "products/hypochlorous-acid-spray/anti-inflammatory-properties",
+            "products/hypochlorous-acid-spray/antimicrobial-activity",
+            "products/hypochlorous-acid-spray/bacterial-skin-infections",
+            "products/hypochlorous-acid-spray/biofilm-disruption",
+            "products/hypochlorous-acid-spray/chemical-peel-recovery",
+            "products/hypochlorous-acid-spray/clinical-studies",
+            "products/hypochlorous-acid-spray/dermatologist-recommendation",
+            "products/hypochlorous-acid-spray/electrolyzed-water",
+            "products/hypochlorous-acid-spray/immune-response-modulation",
+            "products/hypochlorous-acid-spray/inflammatory-skin-conditions",
+            "products/hypochlorous-acid-spray/laser-treatment-aftercare",
+            "products/hypochlorous-acid-spray/light-sensitivity",
+            "products/hypochlorous-acid-spray/medical-grade-skincare",
+            "products/hypochlorous-acid-spray/microneedling-aftercare",
+            "products/hypochlorous-acid-spray/misting-technology",
+            "products/hypochlorous-acid-spray/non-toxic-formulation",
+            "products/hypochlorous-acid-spray/oxidative-stress-reduction",
+            "products/hypochlorous-acid-spray/pediatric-use",
+            "products/hypochlorous-acid-spray/post-procedure-skin-care",
+            "products/hypochlorous-acid-spray/reactive-oxygen-species-ros",
+            "products/hypochlorous-acid-spray/rosacea-sufferers",
+            "products/hypochlorous-acid-spray/safety-profile",
+            "products/hypochlorous-acid-spray/shelf-stability",
+            "products/hypochlorous-acid-spray/skin-barrier-function",
+            "products/hypochlorous-acid-spray/skin-disinfection",
+            "products/hypochlorous-acid-spray/skin-irritation-prevention",
+            "products/hypochlorous-acid-spray/skin-regeneration",
+            "products/hypochlorous-acid-spray/sodium-chloride",
+            "products/hypochlorous-acid-spray/solution-stability",
+            "products/hypochlorous-acid-spray/spray-delivery-system",
+            "products/hypochlorous-acid-spray/temperature-stability",
+            "products/hypochlorous-acid-spray/wound-care-protocol"
+          ]
+        }
       ]
     },
     {
