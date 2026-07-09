@@ -146,7 +146,6 @@
         {
           "group": "Hypochlorous Acid Spray \u2014 Deep Dives",
           "pages": [
-            "products/hypochlorous-acid-spray/anti-inflammatory-properties",
             "products/hypochlorous-acid-spray/antimicrobial-activity",
             "products/hypochlorous-acid-spray/bacterial-skin-infections",
             "products/hypochlorous-acid-spray/biofilm-disruption",
@@ -169,7 +168,6 @@
             "products/hypochlorous-acid-spray/rosacea-sufferers",
             "products/hypochlorous-acid-spray/safety-profile",
             "products/hypochlorous-acid-spray/shelf-stability",
-            "products/hypochlorous-acid-spray/skin-barrier-function",
             "products/hypochlorous-acid-spray/skin-disinfection",
             "products/hypochlorous-acid-spray/skin-irritation-prevention",
             "products/hypochlorous-acid-spray/skin-regeneration",
@@ -254,7 +252,9 @@
       "pages": [
         "concepts/skin-hydration",
         "concepts/stratum-corneum",
-        "concepts/transepidermal-water-loss"
+        "concepts/transepidermal-water-loss",
+        "concepts/skin-barrier-function",
+        "concepts/anti-inflammatory-properties"
       ]
     },
     {
@@ -309,5 +309,15 @@
     "instagram": "https://www.instagram.com/eraorganics",
     "facebook": "https://www.facebook.com/eraorganics",
     "youtube": "https://www.youtube.com/@eraorganics"
-  }
+  },
+  "redirects": [
+    {
+      "source": "/products/hypochlorous-acid-spray/skin-barrier-function",
+      "destination": "/concepts/skin-barrier-function"
+    },
+    {
+      "source": "/products/hypochlorous-acid-spray/anti-inflammatory-properties",
+      "destination": "/concepts/anti-inflammatory-properties"
+    }
+  ]
 }
