@@ -208,7 +208,11 @@
         "ingredients/sunflower-oil",
         "ingredients/adveen",
         "ingredients/shea-butter",
-        "ingredients/sweet-almond-oil"
+        "ingredients/sweet-almond-oil",
+        "ingredients/manuka-honey",
+        "ingredients/walnut-shell",
+        "ingredients/orange-oil",
+        "ingredients/cehami-extract"
       ]
     },
     {
@@ -244,7 +248,11 @@
         "conditions/acne",
         "conditions/sun-damage",
         "conditions/wrinkles",
-        "conditions/contact-dermatitis"
+        "conditions/contact-dermatitis",
+        "conditions/blackheads",
+        "conditions/blemishes",
+        "conditions/clogged-pores",
+        "conditions/dullness"
       ]
     },
     {
