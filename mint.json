@@ -327,5 +327,14 @@
       "source": "/products/hypochlorous-acid-spray/anti-inflammatory-properties",
       "destination": "/concepts/anti-inflammatory-properties"
     }
-  ]
+  ],
+  "contextual": {
+    "options": [
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity"
+    ]
+  }
 }
