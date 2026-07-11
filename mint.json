@@ -67,7 +67,6 @@
     {
       "group": "Products",
       "pages": [
-        "products/hocl-spray",
         "products/baby-eczema-superbalm",
         {
           "group": "Baby Eczema Superbalm — Deep Dives",
@@ -177,7 +176,8 @@
             "products/hypochlorous-acid-spray/temperature-stability",
             "products/hypochlorous-acid-spray/wound-care-protocol"
           ]
-        }
+        },
+        "products/hypochlorous-acid-spray"
       ]
     },
     {
@@ -326,6 +326,14 @@
     {
       "source": "/products/hypochlorous-acid-spray/anti-inflammatory-properties",
       "destination": "/concepts/anti-inflammatory-properties"
+    },
+    {
+      "source": "/products/manuka-honey-face-scrub",
+      "destination": "/products/face-exfoliation-scrub"
+    },
+    {
+      "source": "/products/hocl-spray",
+      "destination": "/products/hypochlorous-acid-spray"
     }
   ],
   "contextual": {
