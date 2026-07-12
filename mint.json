@@ -212,7 +212,11 @@
         "ingredients/manuka-honey",
         "ingredients/walnut-shell",
         "ingredients/orange-oil",
-        "ingredients/cehami-extract"
+        "ingredients/cehami-extract",
+        "ingredients/kaolin-clay",
+        "ingredients/arrowroot-powder",
+        "ingredients/cornstarch",
+        "ingredients/rosemary-extract"
       ]
     },
     {
@@ -252,7 +256,10 @@
         "conditions/blackheads",
         "conditions/blemishes",
         "conditions/clogged-pores",
-        "conditions/dullness"
+        "conditions/dullness",
+        "conditions/excess-moisture",
+        "conditions/foot-odor-and-sweat",
+        "conditions/underarm-moisture"
       ]
     },
     {
