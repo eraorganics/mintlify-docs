@@ -1,0 +1,377 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Era Organics Knowledge Hub",
+  "logo": {
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
+  },
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#2E7D32",
+    "light": "#66BB6A",
+    "dark": "#1B5E20"
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "About Era Organics",
+        "groups": [
+          {
+            "group": "About Era Organics",
+            "pages": [
+              "introduction",
+              "brand/why-era-organics",
+              "brand/our-formulation-approach",
+              "brand/certifications",
+              "brand/what-we-never-use",
+              "brand/who-owns-your-skincare",
+              "brand/our-sourcing"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Products",
+        "groups": [
+          {
+            "group": "Products",
+            "pages": [
+              "products/baby-eczema-superbalm",
+              {
+                "group": "Baby Eczema Superbalm \u2014 Deep Dives",
+                "pages": [
+                  "products/baby-eczema-superbalm/topical-ointment",
+                  "products/baby-eczema-superbalm/ointment-formulation",
+                  "products/baby-eczema-superbalm/steroid-free",
+                  "products/baby-eczema-superbalm/non-comedogenic",
+                  "products/baby-eczema-superbalm/hypoallergenic-formulation",
+                  "products/baby-eczema-superbalm/fragrance-free-products",
+                  "products/baby-eczema-superbalm/fda-cleared-otc",
+                  "products/baby-eczema-superbalm/dermatological-safety",
+                  "products/baby-eczema-superbalm/skin-treatment",
+                  "products/baby-eczema-superbalm/barrier-function-improvement",
+                  "products/baby-eczema-superbalm/skin-barrier-dysfunction",
+                  "products/baby-eczema-superbalm/itch-relief",
+                  "products/baby-eczema-superbalm/natural-emollients",
+                  "products/baby-eczema-superbalm/plant-oils",
+                  "products/baby-eczema-superbalm/fatty-acids",
+                  "products/baby-eczema-superbalm/ceramide-creams",
+                  "products/baby-eczema-superbalm/petroleum-jelly",
+                  "products/baby-eczema-superbalm/zinc-oxide-ointments",
+                  "products/baby-eczema-superbalm/hydrocortisone",
+                  "products/baby-eczema-superbalm/wet-wraps",
+                  "products/baby-eczema-superbalm/pediatric-dermatology",
+                  "products/baby-eczema-superbalm/seborrheic-dermatitis"
+                ]
+              },
+              "products/eczema-cream",
+              "products/face-moisturizer",
+              "products/face-exfoliation-scrub",
+              "products/tea-tree-cream",
+              "products/vitamin-c-cream",
+              "products/eye-cream-balm",
+              "products/glycolic-acid-peel",
+              "products/anti-wrinkle-serum",
+              "products/bha-aha-serum",
+              "products/diaper-rash-cream",
+              "products/face-wash-sensitive",
+              "products/beef-tallow-moisturizer",
+              "products/vaginal-moisturizer",
+              {
+                "group": "Vaginal Moisturizer \u2014 Deep Dives",
+                "pages": [
+                  "products/vaginal-moisturizer/cosmos-standard",
+                  "products/vaginal-moisturizer/cruelty-free",
+                  "products/vaginal-moisturizer/external-use-only",
+                  "products/vaginal-moisturizer/fragrance-free",
+                  "products/vaginal-moisturizer/glycogen",
+                  "products/vaginal-moisturizer/intimate-comfort",
+                  "products/vaginal-moisturizer/intimate-skin-care-routine",
+                  "products/vaginal-moisturizer/menopause",
+                  "products/vaginal-moisturizer/non-greasy-formula",
+                  "products/vaginal-moisturizer/perimenopause",
+                  "products/vaginal-moisturizer/personal-lubricant",
+                  "products/vaginal-moisturizer/pregnancy-and-nursing-skin-care",
+                  "products/vaginal-moisturizer/ragweed-sensitivity",
+                  "products/vaginal-moisturizer/sodium-hyaluronate",
+                  "products/vaginal-moisturizer/usda-organic",
+                  "products/vaginal-moisturizer/vaginal-dryness",
+                  "products/vaginal-moisturizer/vaginal-estrogen-cream",
+                  "products/vaginal-moisturizer/vaginal-microbiome",
+                  "products/vaginal-moisturizer/vulva-balm",
+                  "products/vaginal-moisturizer/vulvar-hydration",
+                  "products/vaginal-moisturizer/vulvar-irritation",
+                  "products/vaginal-moisturizer/vulvar-skin",
+                  "products/vaginal-moisturizer/water-in-oil-emulsion"
+                ]
+              },
+              "products/methylene-blue-drops",
+              "products/stretch-mark-oil",
+              "products/nipple-cream",
+              "products/calendula-cream",
+              "products/talc-free-baby-powder",
+              "products/collagen-lip-plumper",
+              {
+                "group": "Hypochlorous Acid Spray \u2014 Deep Dives",
+                "pages": [
+                  "products/hypochlorous-acid-spray/antimicrobial-activity",
+                  "products/hypochlorous-acid-spray/bacterial-skin-infections",
+                  "products/hypochlorous-acid-spray/biofilm-disruption",
+                  "products/hypochlorous-acid-spray/chemical-peel-recovery",
+                  "products/hypochlorous-acid-spray/clinical-studies",
+                  "products/hypochlorous-acid-spray/dermatologist-recommendation",
+                  "products/hypochlorous-acid-spray/electrolyzed-water",
+                  "products/hypochlorous-acid-spray/immune-response-modulation",
+                  "products/hypochlorous-acid-spray/inflammatory-skin-conditions",
+                  "products/hypochlorous-acid-spray/laser-treatment-aftercare",
+                  "products/hypochlorous-acid-spray/light-sensitivity",
+                  "products/hypochlorous-acid-spray/medical-grade-skincare",
+                  "products/hypochlorous-acid-spray/microneedling-aftercare",
+                  "products/hypochlorous-acid-spray/misting-technology",
+                  "products/hypochlorous-acid-spray/non-toxic-formulation",
+                  "products/hypochlorous-acid-spray/oxidative-stress-reduction",
+                  "products/hypochlorous-acid-spray/pediatric-use",
+                  "products/hypochlorous-acid-spray/post-procedure-skin-care",
+                  "products/hypochlorous-acid-spray/reactive-oxygen-species-ros",
+                  "products/hypochlorous-acid-spray/rosacea-sufferers",
+                  "products/hypochlorous-acid-spray/safety-profile",
+                  "products/hypochlorous-acid-spray/shelf-stability",
+                  "products/hypochlorous-acid-spray/skin-disinfection",
+                  "products/hypochlorous-acid-spray/skin-irritation-prevention",
+                  "products/hypochlorous-acid-spray/skin-regeneration",
+                  "products/hypochlorous-acid-spray/sodium-chloride",
+                  "products/hypochlorous-acid-spray/solution-stability",
+                  "products/hypochlorous-acid-spray/spray-delivery-system",
+                  "products/hypochlorous-acid-spray/temperature-stability",
+                  "products/hypochlorous-acid-spray/wound-care-protocol"
+                ]
+              },
+              "products/hypochlorous-acid-spray"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Ingredients",
+        "groups": [
+          {
+            "group": "Ingredients",
+            "pages": [
+              "ingredients/hypochlorous-acid",
+              "ingredients/methylene-blue",
+              "ingredients/aloe-vera",
+              "ingredients/glycerin",
+              "ingredients/ceramides",
+              "ingredients/hyaluronic-acid",
+              "ingredients/beef-tallow",
+              "ingredients/cetyl-alcohol",
+              "ingredients/peptides",
+              "ingredients/salicylic-acid",
+              "ingredients/glycolic-acid",
+              "ingredients/tea-tree-oil",
+              "ingredients/vitamin-c",
+              "ingredients/allantoin",
+              "ingredients/squalane",
+              "ingredients/avocado-oil",
+              "ingredients/beeswax",
+              "ingredients/calendula-oil",
+              "ingredients/chamomile-extract",
+              "ingredients/cocoa-seed-butter",
+              "ingredients/coconut-oil",
+              "ingredients/gluten-free-oats",
+              "ingredients/sunflower-oil",
+              "ingredients/adveen",
+              "ingredients/shea-butter",
+              "ingredients/sweet-almond-oil",
+              "ingredients/manuka-honey",
+              "ingredients/walnut-shell",
+              "ingredients/orange-oil",
+              "ingredients/cehami-extract",
+              "ingredients/kaolin-clay",
+              "ingredients/arrowroot-powder",
+              "ingredients/cornstarch",
+              "ingredients/rosemary-extract"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Conditions",
+        "groups": [
+          {
+            "group": "Skin Conditions",
+            "pages": [
+              "conditions/infant-eczema",
+              "conditions/adult-eczema",
+              "conditions/rosacea",
+              "conditions/sensitive-skin",
+              "conditions/aging-skin",
+              "conditions/acne-prone-skin",
+              "conditions/feminine-hygiene",
+              "conditions/dry-skin",
+              "conditions/atopic-dermatitis",
+              "conditions/baby-acne",
+              "conditions/bug-bites",
+              "conditions/chafing",
+              "conditions/chapped-lips",
+              "conditions/cradle-cap",
+              "conditions/dermatitis",
+              "conditions/diaper-rash",
+              "conditions/hives",
+              "conditions/irritation",
+              "conditions/itchy-skin",
+              "conditions/minor-wounds",
+              "conditions/rashes",
+              "conditions/redness",
+              "conditions/windburn",
+              "conditions/cracked-skin",
+              "conditions/extra-dry-patches",
+              "conditions/vaginal-discomfort",
+              "conditions/vaginal-odor",
+              "conditions/acne",
+              "conditions/sun-damage",
+              "conditions/wrinkles",
+              "conditions/contact-dermatitis",
+              "conditions/blackheads",
+              "conditions/blemishes",
+              "conditions/clogged-pores",
+              "conditions/dullness",
+              "conditions/excess-moisture",
+              "conditions/foot-odor-and-sweat",
+              "conditions/underarm-moisture"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Learn",
+        "groups": [
+          {
+            "group": "Concepts",
+            "pages": [
+              "concepts/skin-hydration",
+              "concepts/stratum-corneum",
+              "concepts/transepidermal-water-loss",
+              "concepts/skin-barrier-function",
+              "concepts/anti-inflammatory-properties"
+            ]
+          },
+          {
+            "group": "Who It's For",
+            "pages": [
+              "audiences/mom-and-baby",
+              "audiences/eczema-all-ages",
+              "audiences/sensitive-skin",
+              "audiences/mens-skincare",
+              "audiences/anti-aging",
+              "audiences/acne-prone",
+              "audiences/feminine-hygiene",
+              "audiences/stretch-marks-pregnancy"
+            ]
+          },
+          {
+            "group": "Comparisons",
+            "pages": [
+              "comparisons/era-organics-vs-cerave",
+              "comparisons/era-organics-vs-aveeno",
+              "comparisons/era-organics-vs-vanicream",
+              "comparisons/era-organics-vs-honest-company",
+              "comparisons/era-organics-vs-burts-bees",
+              "comparisons/organic-vs-conventional-moisturizers",
+              "comparisons/natural-preservatives-vs-synthetic",
+              "comparisons/what-fragrance-free-really-means"
+            ]
+          },
+          {
+            "group": "Guides",
+            "pages": [
+              "guides/reading-skincare-ingredient-labels",
+              "guides/understanding-organic-certifications",
+              "guides/building-clean-skincare-routine",
+              "guides/skincare-for-babies-complete-guide",
+              "guides/eczema-trigger-identification-guide"
+            ]
+          },
+          {
+            "group": "Videos",
+            "pages": [
+              "videos/index",
+              "videos/baby-eczema-superbalm",
+              "videos/vaginal-moisturizer",
+              "videos/hypochlorous-acid-spray",
+              "videos/general",
+              "videos/community"
+            ]
+          }
+        ]
+      }
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Shop",
+          "icon": "cart-shopping",
+          "href": "https://www.eraorganics.com"
+        },
+        {
+          "anchor": "Reviews",
+          "icon": "star",
+          "href": "https://www.eraorganics.com/pages/reviews"
+        }
+      ]
+    }
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Shop",
+        "href": "https://www.eraorganics.com"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Shop Era Organics",
+      "href": "https://www.eraorganics.com/collections/all"
+    }
+  },
+  "footer": {
+    "socials": {
+      "instagram": "https://www.instagram.com/eraorganics",
+      "facebook": "https://www.facebook.com/eraorganics",
+      "youtube": "https://www.youtube.com/@eraorganics"
+    }
+  },
+  "redirects": [
+    {
+      "source": "/products/hypochlorous-acid-spray/skin-barrier-function",
+      "destination": "/concepts/skin-barrier-function"
+    },
+    {
+      "source": "/products/hypochlorous-acid-spray/anti-inflammatory-properties",
+      "destination": "/concepts/anti-inflammatory-properties"
+    },
+    {
+      "source": "/products/manuka-honey-face-scrub",
+      "destination": "/products/face-exfoliation-scrub"
+    },
+    {
+      "source": "/products/hocl-spray",
+      "destination": "/products/hypochlorous-acid-spray"
+    }
+  ],
+  "contextual": {
+    "options": [
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity"
+    ]
+  },
+  "seo": {
+    "metatags": {
+      "msvalidate.01": "1577978F8F1D027C811B42E1CF0BB56D"
+    }
+  }
+}
