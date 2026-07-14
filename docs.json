@@ -26,7 +26,8 @@
               "brand/certifications",
               "brand/what-we-never-use",
               "brand/who-owns-your-skincare",
-              "brand/our-sourcing"
+              "brand/our-sourcing",
+              "brand/sulfate-free"
             ]
           }
         ]
@@ -68,6 +69,28 @@
               "products/eczema-cream",
               "products/face-moisturizer",
               "products/face-exfoliation-scrub",
+              {
+                "group": "Face Exfoliation Scrub — Deep Dives",
+                "pages": [
+                  "products/face-exfoliation-scrub/acne",
+                  "products/face-exfoliation-scrub/chemical-peel",
+                  "products/face-exfoliation-scrub/dual-action-formula",
+                  "products/face-exfoliation-scrub/enzyme-exfoliation",
+                  "products/face-exfoliation-scrub/glycolic-acid-peel",
+                  "products/face-exfoliation-scrub/hyperpigmentation",
+                  "products/face-exfoliation-scrub/keratin",
+                  "products/face-exfoliation-scrub/microbead-free",
+                  "products/face-exfoliation-scrub/micronized-particles",
+                  "products/face-exfoliation-scrub/natural-organic-ingredients",
+                  "products/face-exfoliation-scrub/over-exfoliation",
+                  "products/face-exfoliation-scrub/papain",
+                  "products/face-exfoliation-scrub/radiance",
+                  "products/face-exfoliation-scrub/refined-texture",
+                  "products/face-exfoliation-scrub/smooth-skin",
+                  "products/face-exfoliation-scrub/uneven-texture",
+                  "products/face-exfoliation-scrub/walnut-shell-powder"
+                ]
+              },
               "products/tea-tree-cream",
               "products/vitamin-c-cream",
               "products/eye-cream-balm",
@@ -195,7 +218,11 @@
               "ingredients/rosemary-extract",
               "ingredients/msm",
               "ingredients/carrot-seed-oil",
-              "ingredients/hemp-seed-oil"
+              "ingredients/hemp-seed-oil",
+              "ingredients/aha",
+              "ingredients/bha",
+              "ingredients/sebum",
+              "ingredients/vitamin-e"
             ]
           }
         ]
@@ -243,7 +270,8 @@
               "conditions/dullness",
               "conditions/excess-moisture",
               "conditions/foot-odor-and-sweat",
-              "conditions/underarm-moisture"
+              "conditions/underarm-moisture",
+              "conditions/tree-nut-allergy"
             ]
           }
         ]
@@ -258,7 +286,14 @@
               "concepts/stratum-corneum",
               "concepts/transepidermal-water-loss",
               "concepts/skin-barrier-function",
-              "concepts/anti-inflammatory-properties"
+              "concepts/anti-inflammatory-properties",
+              "concepts/cell-turnover",
+              "concepts/congested-pores",
+              "concepts/dead-skin-cells",
+              "concepts/desquamation",
+              "concepts/patch-test",
+              "concepts/physical-exfoliation",
+              "concepts/skin-type"
             ]
           },
           {
