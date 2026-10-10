@@ -48,7 +48,7 @@
                   "products/baby-eczema-superbalm/non-comedogenic",
                   "products/baby-eczema-superbalm/hypoallergenic-formulation",
                   "products/baby-eczema-superbalm/fragrance-free-products",
-                  "products/baby-eczema-superbalm/fda-cleared-otc",
+                  "products/baby-eczema-superbalm/otc-skin-protectant",
                   "products/baby-eczema-superbalm/dermatological-safety",
                   "products/baby-eczema-superbalm/skin-treatment",
                   "products/baby-eczema-superbalm/barrier-function-improvement",
@@ -452,6 +452,10 @@
     {
       "source": "/products/hocl-spray",
       "destination": "/products/hypochlorous-acid-spray"
+    },
+    {
+      "source": "/products/baby-eczema-superbalm/fda-cleared-otc",
+      "destination": "/products/baby-eczema-superbalm/otc-skin-protectant"
     }
   ],
   "contextual": {
